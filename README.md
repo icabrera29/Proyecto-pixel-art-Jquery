@@ -1,5 +1,5 @@
 # Proyecto-pixel-art-Jquery
 Pixel art con Jquery
-online: [link name](https://pixel-art-jquery.herokuapp.com){:target="_blank"}
+online: https://pixel-art-jquery.herokuapp.com
 ![Alt text](http://ivocabrera.com/github/pixel-art.jpg "Juego zombies - javascript oop")
 
